@@ -1,0 +1,15 @@
+.GenerateCardList-container {
+    background-color: red;
+}
+
+.container img {
+    width: 150px
+}
+
+.container active {
+    background-color: grey;
+}
+
+.container notActive {
+    background-color: green;
+}
